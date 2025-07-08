@@ -2,12 +2,12 @@ import requests
 from datetime import datetime
 
 # 在下方填入你的 OpenWeather API 金鑰
-WEATHER_API_KEY = 'YOUR_OPENWEATHER_API_KEY'
+WEATHER_API_KEY = '3be98769c7406760c052e7602de181f9'
 # 設定欲查詢的城市
 CITY = 'Taipei'
 
 # 在下方填入你的 NewsAPI 金鑰
-NEWS_API_KEY = 'YOUR_NEWSAPI_KEY'
+NEWS_API_KEY = '6449d0d2a33f45799b35c91cc4e976ee'
 # 欲取得的新聞數量
 NEWS_COUNT = 5
 
